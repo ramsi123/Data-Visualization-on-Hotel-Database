@@ -23,7 +23,7 @@ This project allows stakeholders to gain some insight about the current conditio
 <img src="https://i.imgur.com/gz1s7Cs.png" height="65%" width="65%" alt="Analyze and Retrieve Data with SQL"/>
 </p>
 
-<h2>Data visualization with Power BI</h2>
+<h2>Data Visualization with Power BI</h2>
 
 <p align="center">
 <img src="https://i.imgur.com/4njgQyN.jpg" height="65%" width="65%" alt="Data visualization in Power BI"/>
