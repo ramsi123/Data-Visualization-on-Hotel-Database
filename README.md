@@ -1,4 +1,4 @@
-<h1>Data visualization on Hotel Database</h1>
+<h1>Data Visualization on Hotel Database</h1>
 
 <h2>Description</h2>
 This project allows stakeholders to gain some insight about the current condition of the hotel. Data visualization in this project will able to answer some questions, such as the growth on hotel revenue, guest's trend on personal car, and focusing on average daily rate to explore seasonality.
